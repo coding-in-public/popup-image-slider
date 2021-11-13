@@ -1,0 +1,93 @@
+[
+    {
+      "name" : "Food",
+      "images" : [
+        {
+            "src": "./images/food/food-1.jpg",
+            "alt": "banana"
+          },
+          {
+            "src": "./images/food/food-2.jpg",
+            "alt": "lemons"
+          },
+          {
+            "src": "./images/food/food-3.jpg",
+            "alt": "cherries"
+          },
+          {
+            "src": "./images/food/food-4.jpg",
+            "alt": "orange"
+          },
+          {
+            "src": "./images/food/food-5.jpg",
+            "alt": "melon"
+          },
+          {
+            "src": "./images/food/food-6.jpg",
+            "alt": "avacado"
+          },
+          {
+            "src": "./images/food/food-7.jpg",
+            "alt": "blueberries"
+        }
+      ]
+    },
+    {
+      "name" : "Mountains",
+      "images" : [
+          {
+            "src": "./images/mountains/mountain-1.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-2.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-3.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-4.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-5.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-6.jpg",
+            "alt": "Mountain scene"
+          },
+          {
+            "src": "./images/mountains/mountain-7.jpg",
+            "alt": "Mountain scene"
+          }
+      ]
+    },
+    {
+      "name" : "Plants",
+      "images" : [
+          {
+            "src": "./images/plants/plant-1.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-2.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-3.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-4.jpg",
+            "alt": "house plant"
+          },
+          {
+            "src": "./images/plants/plant-5.jpg",
+            "alt": "house plant"
+          }
+      ]
+    }
+  ]
