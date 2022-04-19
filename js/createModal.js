@@ -64,11 +64,10 @@ export default function createModal(){
       .modal__image-container {
         display: flex;
         max-height: 100vh;
+        max-width: 900px;
       }
       
       .modal__image {
-        width: 100%;
-        height: 100%;
         aspect-ratio: 16/10;
         object-fit: cover;
       }
